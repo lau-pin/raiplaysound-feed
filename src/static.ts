@@ -147,6 +147,18 @@ const podcasts = [
     title: "Il ritorno. Afghanistan, cinque anni dopo",
     path: "/programmi/ilritornoafghanistancinqueannidopo"
   },
+  {
+  title: "Pagina 3",
+  path: "programmi/pagina3"
+},
+  {
+  title: "Pagina 3 Internazionale",
+  path: "programmi/pagina3internazionale"
+},
+{
+  title: "La lingua batte",
+  path: "programmi/lalinguabatte"
+}
 ]
 
 const audiobooks = [
